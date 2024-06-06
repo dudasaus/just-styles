@@ -1,0 +1,26 @@
+{
+  "name": "just-styles",
+  "version": "1.0.0",
+  "description": "No class CSS framework focused on markdown rendering.",
+  "main": "index.scss",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Dudas",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.24.7",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.0",
+    "sass": "^1.77.4",
+    "vite": "^5.2.12",
+    "vite-plugin-markdown": "^2.2.0"
+  },
+  "type": "module"
+}

@@ -1,0 +1,5 @@
+@use "./just-css";
+
+:root {
+  @include just-css.just-css();
+}
